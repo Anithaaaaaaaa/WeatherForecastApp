@@ -53,7 +53,7 @@ python -m http.server
 
 Repository Link: GitHub -https://github.com/Anithaaaaaaaa/WeatherForecastApp.git
 
-Live Demo (Chrome Link): Weather Forecast App
+Live Demo (Chrome Link): https://anithachandran.neocities.org/Weather_Forecast/
 
 
 📧 Contact
